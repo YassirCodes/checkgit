@@ -1,5 +1,4 @@
-from gulgul import funcforsharing
+import gulgul
 
-ex = funcforsharing("AI reviewer")
-
+ex = gulgul.funcforsharing("AI reviewer")
 print(ex)
